@@ -1,7 +1,7 @@
 /**
  * Author: Chris Bourke
  *         cbourke@cse.unl.edu
- * Date: 2020/03/26
+ * Date: 2020
  *
  * A simple hello world program in C
  *
@@ -11,8 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Jaehyeok An!\n");
-  printf("Computer Science\n");
-
+  printf("Jaehyeok An\n");
+  printf("Computer science\n");
   return 0;
 }
